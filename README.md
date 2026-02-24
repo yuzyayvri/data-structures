@@ -9,8 +9,9 @@ A collection of my data structures implementations for learning and reference. L
 - **General Tree** - A tree graph without any particular restrictions. Starts from a root node, and branches out into multiple leaves, with or without their own children. Can be traversed using DFS and BFS.
 
 ## Coming Soon
-- More graphs
-- Heap
+- Weighted Graphs
+- Binary Trees
+- Heaps
 - And many more!
 
 *Python 3.11.9*
